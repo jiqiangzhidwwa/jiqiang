@@ -1,0 +1,39 @@
+/*********************设置背景************************************/
+.item-1 {
+    background: url("http://img5.imgtn.bdimg.com/it/u=3947781760,1530636731&fm=23&gp=0.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    background-size:cover ;
+}
+.item-2 {
+    background: url("http://img.hb.aicdn.com/d0e232e133a7c96042c39f432aa1a8c0becdcac3dcb7-UCAFGp_fw658") no-repeat center center;
+    -webkit-background-size: cover;
+    background-size:cover;
+}
+.item-5 {
+    background: url("http://img.hb.aicdn.com/b9c4c656febbabf8b74eac292ba59cb5b64c2a1eb7e26-mIPnrh_fw658") no-repeat center center;
+    -webkit-background-size: cover;
+    background-size:cover;
+}
+.item-4 {
+    /*background-image: url("http://pic.qiantucdn.com/58pic/18/05/63/64558PICVfp_1024.jpg")no-repeat center center;!important;*/
+}
+.guns {
+    opacity: 1;
+    width: 100%;
+    height: 100%;
+    background-image: : url("http://img2.imgtn.bdimg.com/it/u=3212269065,3714408555&fm=23&gp=0.jpg");
+    -webkit-background-size: cover;
+    background-size:cover;
+    position: fixed;
+    display: none;
+}
+.pure {
+    width: 100%;
+    height: 100%;
+    background: url("http://img.hb.aicdn.com/e8d7ed561a5fed9180d9780c77b52b5e66f1cbaabfb1f-kT5cQm_fw658") no-repeat center center;
+    -webkit-background-size: cover;
+    background-size:cover;
+    position: fixed;
+    display: none;
+}
+/**********************设置背景End*****************************************/
